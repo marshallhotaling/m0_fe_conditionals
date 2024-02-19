@@ -59,7 +59,7 @@ var lovesDogPark = false;
 var lovesTreats = true;
 var age = 1;
 
-console.log(lovesToPlay && lovesToPlay);
+console.log(lovesToPlay && lovesTreats);
 // Determine if the dog loves to play and loves treats
 
 console.log(lovesToPlay || lovesDogPark);
